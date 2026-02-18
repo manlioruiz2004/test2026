@@ -2,6 +2,9 @@
   "name": "manlio-ruiz-portfolio",
   "version": "1.0.0",
   "private": true,
+  "scripts": {
+    "build": "echo 'Build skipped: Static ESM structure detected.'"
+  },
   "dependencies": {
     "react": "^19.2.4",
     "react-dom": "^19.2.4",
